@@ -14,7 +14,6 @@
   
 <br>
 <img src="https://count.getloli.com/get/@claxorj?theme=moebooru" alt="Furtsy" />
-<img src="https://lanyard.kyrie25.me/api/769548025583501342?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="45%" style="vertical-align: top;">
 </p>
 
 <details align="center">
